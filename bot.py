@@ -16,7 +16,7 @@ from telegram.ext import (
 from concurrent.futures import ThreadPoolExecutor
 import subprocess
 
-BOT_TOKEN = "7878367599:AAGHIvYFy8ngzqRc-DJoikc4XxozC3WzqwY"
+BOT_TOKEN = "7660928254:AAGo9o3u6RCqncGcS59_41gl39Y0LbAhhk8"
 FILE_JSON = "utenti.json"
 SCELTA_RUOLO, INSERISCI_PASSWORD, OPERATIVO = range(3)
 SEMAPHORE = asyncio.Semaphore(10)
